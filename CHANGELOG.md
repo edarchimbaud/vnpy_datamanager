@@ -1,21 +1,21 @@
-# 1.0.9版本
+# Version 1.0.9
 
-1. 修复批量数据更新时缺失output函数的问题
+1. Fix missing output function when updating batch data.
 
-# 1.0.8版本
+# 1.0.8 Version
 
-1. 增加output函数用于输出数据下载过程中的日志
+1. Add output function to output logs during data downloading
 
-# 1.0.7版本
+# 1.0.7 Version 1.
 
-1. 修复刷新历史数据树形控件时，老数据点移除错误的问题
+1. Fix the problem that old data points are removed incorrectly when refreshing the historical data tree control.
 
-# 1.0.6版本
+# 1.0.6 Version 1.
 
-1. 使用zoneinfo替换pytz库
-2. 调整安装脚本setup.cfg，添加Python版本限制
+1. Replace pytz library with zoneinfo. 2.
+2. Adjust setup.cfg to add Python version restriction.
 
-# 1.0.5版本
+# 1.0.5 Version
 
-1. 将模块的图标文件信息，改为完整路径字符串
-2. 修改使用PySide6的QDate到datetime转换函数
+1. Change the module's icon file information to a full path string.
+2. Modify the use of PySide6's QDate to datetime conversion function.

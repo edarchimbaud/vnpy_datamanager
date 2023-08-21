@@ -1,4 +1,4 @@
-# VeighNa框架的数据管理模块
+# Data management module of the VeighNa framework
 
 <p align="center">
   <img src ="https://vnpy.oss-cn-shanghai.aliyuncs.com/vnpy-logo.png"/>
@@ -11,22 +11,22 @@
     <img src ="https://img.shields.io/github/license/vnpy/vnpy.svg?color=orange"/>
 </p>
 
-## 说明
+## Description
 
-通过UI界面直观查询数据库中已有的数据概况，选择任意时间段数据查看字段细节，支持CSV文件的数据导入和导出。
+Through the UI interface intuitive query database has a data profile, select any time period data to view the details of the field, support for CSV file data import and export.
 
-## 安装
+## Installation
 
-安装环境推荐基于3.3.0版本以上的【[**VeighNa Studio**](https://www.vnpy.com)】。
+The installation environment is recommended to be based on [[**VeighNa Studio**](https://www.vnpy.com)] above version 3.3.0.
 
-直接使用pip命令：
+Use pip command directly:
 
 ```
 pip install vnpy_datamanager
 ```
 
 
-或者下载源代码后，解压后在cmd中运行：
+Or download the source code, unzip it and run it in cmd:
 
 ```
 pip install .
